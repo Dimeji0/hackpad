@@ -10,3 +10,5 @@ Features:
 
    CAD model
    <img width="696" height="804" alt="image" src="https://github.com/user-attachments/assets/a2d7dbdf-1038-4490-b199-766e181ab2c8" />
+
+Note model is only designed not programmed or build yet
