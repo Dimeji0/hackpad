@@ -28,7 +28,7 @@ This was made so I could set keybind in video games and connect them to my hackp
 **BOM**
 1. 3x MX cherry style keys
 2. EC11 rotary encoder with  switch
-3. Soldering iron
+3. Soldering kit
 4. Xiaou RP2040
 5. 1x case (3 printed parts)
 
