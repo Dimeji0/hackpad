@@ -1,6 +1,7 @@
 ﻿# hackpad
 # hackpad
-<img width="635" height="876" alt="image" src="https://github.com/user-attachments/assets/754e4958-9286-4a29-a1a0-e2446080a932" />
+<img width="458" height="672" alt="image" src="https://github.com/user-attachments/assets/a29d0a06-45e4-4393-b016-cf7061533a1f" />
+
 PCB design
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Dimeji0/hackpad/tree/main/pcb)
 
